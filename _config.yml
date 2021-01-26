@@ -1,4 +1,4 @@
-title:              Cagiti Blog
+title:              Cagiti
 email:              cagiti@github.com
 description:        A Blog for all things bloggy.
 author:             Cai Cooper
@@ -14,10 +14,4 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+theme: jekyll-theme-cayman
