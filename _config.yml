@@ -14,6 +14,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
