@@ -2,16 +2,9 @@ title:              Cagiti
 email:              cagiti@github.com
 description:        A Blog for all things bloggy.
 author:             Cai Cooper
-baseurl:            "/"
-url:                "https://cagiti.github.io"
 
 # Social Profiles
 github_username:    cagiti
 linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
-
-# Build settings
 markdown:           kramdown
 theme: jekyll-theme-cayman
