@@ -3,10 +3,11 @@ theme = "github.com/forestryio/hugo-theme-novela"
 
 paginate = 6
 
+baseURL = "https://cagiti.github.io"
+languageCode = "en-gb"
+title = "Cagiti Blog"
+
 [social]
 github= "https://github.com/cagiti"
 linkedin= "https://www.linkedin.com/in/cagiti"
 
-baseURL = "https://cagiti.github.io"
-languageCode = "en-gb"
-title = "Cagiti Blog"
