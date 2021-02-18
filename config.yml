@@ -1,0 +1,10 @@
+theme: Blogpaper
+title: Cai Cooper
+author:
+  name: Cai Cooper
+baseURL: https://cagiti.github.io/
+copyright: copyright © Cai Cooper 2021
+languageCode: en-gb
+params:
+  description: blog about some technical stuff
+  subtitleLength: 10 # The number of words on the subtitle of a page
