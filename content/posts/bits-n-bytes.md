@@ -14,7 +14,7 @@ aliases:
   - bits-n-bytes
 ---
 
-What is this? Hopefully this is not another list of tools that aren't useful. I thought it might be useful to compile a list of commands/packages I've found useful when interacting with the various technologies. I will do my best to keep it up to date... pull requests are welcome ;)! Let's start at the beginning:
+What is this? Hopefully this is not another list of tools that aren't useful. I thought it might be useful to compile a list of commands/packages I've found useful when interacting with the various technologies. I will do my best to keep it up to date... pull requests are welcome ;)!
 
 ## [git](https://git-scm.com/)
 
